@@ -1,1 +1,24 @@
-{"id": "./", "name": "PTT \u2014 Personal Trainer Tracker", "short_name": "PTT", "start_url": "./", "display": "standalone", "background_color": "#ffffff", "theme_color": "#ffffff", "icons": [{"src": "./ptt-icon-180.png", "sizes": "180x180", "type": "image/png"}, {"src": "./ptt-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}], "scope": "./"}
+{
+  "id": "/Snake-Game/ptt/",
+  "name": "PTT \u2014 Personal Trainer Tracker",
+  "short_name": "PTT",
+  "start_url": "/Snake-Game/ptt/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/Snake-Game/ptt/apple-touch-icon-ptt-v2.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Snake-Game/ptt/ptt-icon-512-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "scope": "/Snake-Game/ptt/"
+}
